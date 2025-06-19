@@ -14,7 +14,7 @@ import { compileLanguage } from './lib/mode_compiler.js';
 import * as packageJSON from '../package.json';
 import * as logger from "./lib/logger.js";
 import HTMLInjectionError from "./lib/html_injection_error.js";
-
+console.log('ok')
 
 /**
 @typedef {import('highlight.js').Mode} Mode
